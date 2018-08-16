@@ -1,0 +1,2 @@
+add_lunch_combo omni_sakura-userdebug
+add_lunch_combo omni_sakura-eng
